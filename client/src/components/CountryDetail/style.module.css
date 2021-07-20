@@ -1,0 +1,15 @@
+.container{
+    padding:10px;
+}
+.div-img{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.div-img img{
+    width: 100%;
+    height: auto;
+
+}

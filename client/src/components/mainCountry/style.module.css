@@ -1,0 +1,33 @@
+.container {
+max-width: 400px;
+max-height: 300px;
+background-color: skyblue;
+display:flex;
+flex-direction: column;
+flex-wrap: wrap;
+padding:10px;
+margin:10px;
+box-shadow:10px 5px 5px black;
+
+}
+.button{
+    max-width: 70px;
+    max-height:20px;
+    order: -1;
+}
+.texto{
+    text-align: center;
+    align-items: center;
+}
+img{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.container:hover{
+   transition-duration: 5,2;
+    background-color:#45b3df;
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "redux-devtools": "^3.7.0"
+  }
+}
