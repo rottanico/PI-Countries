@@ -14,7 +14,26 @@
 - Aprender y practicar el workflow de GIT.
 - Usar y practicar testing.
 
+## Elementos del proyecto:
 
+
+- [ ]  Barra de navegacion: botones para poder cambiar el ordenamiento de los paises( por nombre o por poblacion ), botones para filtrar por actividad turistica relacionadas al        pais.
+- [ ]  Home: renderiza cartas de paises que incluyen una foto, nombre, continente y un boton para acceder a mas detalle del pais.
+- [ ]  Detalle del pais seleccionado: incluye todos los datos del pais ( poblacion, area, continente, imagen, capital, subregion y las actividades turisticas creadas para ese          pais )
+- [ ]  Formulario de creacion: Crea una actividad turistica para uno o mas paises con sus respectivos datos (nombre, duracion, dificultad, temporada) para luego almacenarla en          la base de datos
+
+
+## Tecnologías utilizadas:
+
+- [ ] React 
+- [ ] Redux
+- [ ] Express
+- [ ] Sequelize - Postgres
+
+
+
+
+# Opcion para desarrolladores: 
 
 ## Comenzando
 
